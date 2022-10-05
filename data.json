@@ -1,0 +1,7 @@
+[
+    {"nombre": "Almendras", "precio": 400, "id": 1},
+    {"nombre": "Nueces", "precio": 360, "id": 2},
+    {"nombre": "Castañas de Caju", "precio": 320, "id": 3},
+    {"nombre": "Pistacho ", "precio": 430, "id": 4},
+    {"nombre": "Mani", "precio": 120, "id": 5}
+]
